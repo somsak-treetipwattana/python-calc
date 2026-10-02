@@ -10,3 +10,5 @@ This project is ideal for beginners learning Python functions and input/output.
 It demonstrates clean structure using separate operations for each arithmetic function.
 The executable version can also be run as a standalone Windows `.exe` file.
 You can use it for simple calculations in school, work, or learning exercises.
+
+Test line added
